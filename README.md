@@ -84,7 +84,7 @@ This repository helped me improve my understanding of:
 
 ### Rezwan Ahmed
 
-B.Sc Engg in CSE Student | Aspiring Software Developer
+B.Sc Engg in CSE Student | Aspiring Software Engineer
 
 ---
 
