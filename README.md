@@ -2,9 +2,9 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" />
-
   <img src="https://img.shields.io/badge/Numerical%20Methods-1E1E1E?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" />
 
 </p>
 
