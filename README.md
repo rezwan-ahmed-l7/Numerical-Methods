@@ -48,29 +48,6 @@ The purpose of this repository is to strengthen my understanding of numerical an
 
 ---
 
-# Repository Structure
-
-```bash
-Numerical-Methods/
-│
-├── Python Codes/
-│   ├── 2nd_Lab_Bisection_Method.py
-│   ├── 3rd_Lab_False_Position_Method.py
-│   ├── 4th_Lab_Fixed_Point_Iteration_Method.py
-│   ├── 5th_Lab_Newton_Raphson_Method.py
-│   ├── 6th_Lab_Secant_Method.py
-│   ├── 7th_Lab_Trapezoidal_and_Simpsons_Rule.py
-│   ├── 8th_Lab_Newtons_Forward_Method.py
-│   └── 9th_Lab_Newtons_Backward_Difference.py
-│
-├── Lab Reports/
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 # Tools Used
 
 | Technology        | Purpose                       |
@@ -103,17 +80,11 @@ This repository helped me improve my understanding of:
 
 ---
 
-# Future Improvements
-
-* Organize laboratory reports with documentation
-
----
-
 # Author
 
 ### Rezwan Ahmed
 
-B.Sc Engg in CSE Student | Aspiring Software Engineer
+B.Sc Engg in CSE Student | Aspiring Software Developer
 
 ---
 
