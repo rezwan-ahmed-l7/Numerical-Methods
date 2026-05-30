@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
 
   <img src="https://img.shields.io/badge/Numerical%20Methods-1E1E1E?style=for-the-badge" />
 
@@ -105,10 +105,6 @@ This repository helped me improve my understanding of:
 
 # Future Improvements
 
-* Add graphical visualizations using Matplotlib
-* Implement more advanced numerical algorithms
-* Add detailed explanations for each method
-* Include complexity and accuracy comparisons
 * Organize laboratory reports with documentation
 
 ---
@@ -117,7 +113,7 @@ This repository helped me improve my understanding of:
 
 ### Rezwan Ahmed
 
-b.Sc Engg in CSE Student | Aspiring Software Engineer
+B.Sc Engg in CSE Student | Aspiring Software Engineer
 
 ---
 
